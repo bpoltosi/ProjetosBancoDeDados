@@ -1,2 +1,2 @@
 # ProjetosBancoDeDados
-!.
+readme do repositorio
